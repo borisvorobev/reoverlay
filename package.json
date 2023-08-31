@@ -2,7 +2,7 @@
   "name": "reoverlay",
   "version": "1.0.3",
   "description": "The missing solution for managing modals in React.",
-  "main": "src/index.js",
+  "main": "lib/index.js",
   "keywords": [
     "modal",
     "overlay",
